@@ -2,9 +2,9 @@
 
 Hey! I'm **Luís Felipe**, a passionate and curious developer who enjoys building **modern, scalable, and well-structured applications**.
 
-My main focus is on **frontend development**, especially with **React and React Native**, where I like to combine clean code with good UI/UX practices. At the same time, I'm actively expanding my skills into **backend and DevOps**, because I believe great developers understand the system as a whole — not just the interface.
+My main focus is on **frontend development**, especially with **React and React Native**, where I like to combine clean code with good UI/UX practices. At the same time, I'm actively expanding my skills into **backend and DevOps**, because I believe great developers understand the system as a whole not just the interface.
 
-I'm constantly experimenting, breaking things (on purpose 😅), fixing them, and learning how software behaves **under the hood**. I value readable code, good architecture, and solutions that make sense in the real world.
+I'm constantly experimenting, breaking things, fixing them, and learning how software behaves **under the hood**. I value readable code, good architecture, and solutions that make sense in the real world.
 
 ---
 ## 🚀 Tech Stack & Skills
