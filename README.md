@@ -75,6 +75,7 @@ I'm currently deepening my knowledge in:
 ## 🔗 Social
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/LuisViQ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_USUARIO/](https://www.linkedin.com/in/luis-felipe-viana-queiroz-089720263/))
 
 ---
 
