@@ -46,7 +46,7 @@ I'm constantly experimenting, breaking things, fixing them, and learning how sof
 I'm currently deepening my knowledge in:
 
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://docs.aws.amazon.com/)
-[![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]([https://docs.aws.amazon.com/](https://www.figma.com/))
+[![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 - Cloud fundamentals  
 - Deployment concepts  
@@ -75,7 +75,7 @@ I'm currently deepening my knowledge in:
 ## 🔗 Social
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/LuisViQ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_USUARIO/](https://www.linkedin.com/in/luis-felipe-viana-queiroz-089720263/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-felipe-viana-queiroz-089720263/)
 
 ---
 
